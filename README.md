@@ -19,5 +19,6 @@ Simulated a full IT helpdesk environment using osTicket. Demonstrated ticket log
 4. Configure departments, SLAs, canned responses, email (SMTP)
 
 ## Sample artifacts
+![Dashboard Report](screenshots/report.png)
 See `screenshots/Dashboard_Report.png`
 
