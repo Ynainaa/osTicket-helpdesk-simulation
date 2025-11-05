@@ -27,11 +27,13 @@ Simulated a full IT helpdesk environment using osTicket. Demonstrated ticket log
 - User and Role Administration  
 
 ## Sample Screenshots
-![Email Notification](screenshots/Email_alert.PNG)
+![Email Alert](screenshots/Email_alert.PNG)
 
 ![Critical Incident Response](screenshots/critical_incident_response.PNG)
 
 ![Help Topics](screenshots/help_topics.PNG)
+
+![SLA Settings](screenshots/SLA.PNG)
 
 ## Sample Report
 Below is a snapshot from the dashboard
@@ -48,4 +50,4 @@ It shows ticket activity for the period **Nov 2–5, 2025**:
 | Server Downtime | 1 | 1 | 0 | 1 |
 
 **PDF Summary:**
-[Helpdesk Project]
+[Helpdesk Project](reports/helpdesk_project.pdf)
