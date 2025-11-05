@@ -1,0 +1,21 @@
+=========================================================
+osTicket SLA Escalation & Breach Log
+System: Local XAMPP + osTicket 1.18
+Generated: 2025-11-02
+=========================================================
+
+[2025-11-3 16:05] Ticket #790162 - "VPN not connecting to remote network"
+---------------------------------------------------------
+SLA Policy: Network SLA (1 hour)
+Department: Network Operation
+Assigned To: Network Support
+Event: SLA Breach Detected
+Action: Ticket auto-escalated to ephantus ngugi
+Notification Sent: networkadmin@company.com, 
+Resolution Time: 1h 32m
+Status: Resolved
+---------------------------------------------------------
+
+
+End of log.
+=========================================================
