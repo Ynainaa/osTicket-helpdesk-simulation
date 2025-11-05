@@ -1,0 +1,6 @@
+[User] Created ticket #797224 - Printer issue
+[System] Peiority set to Normal
+[Lucy Wainaina] Added internal note: "Seems to be a network issue."
+[Lucy Wainaina] Reassigned ticket to Department: Network Operation
+[Ephantus ngugi] Confirmed printer reconnected to network.
+[System] Ticket Closed.
