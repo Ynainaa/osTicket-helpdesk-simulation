@@ -50,4 +50,4 @@ It shows ticket activity for the period **Nov 2–5, 2025**:
 | Server Downtime | 1 | 1 | 0 | 1 |
 
 **PDF Summary:**
-[Helpdesk Project](reports/helpdesk_project.pdf)
+[Helpdesk Project](portfolio/helpdesk_project.pdf)
